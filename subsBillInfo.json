@@ -1,0 +1,108 @@
+[
+  {
+    "tariff": "Cosmo 16",
+    "minutes": 1200,
+    "megabytes": 2500,
+    "sms": 300,
+    "msisdn": 998939999999
+  },
+  {
+    "tariff": "Cosmo 23",
+    "minutes": 1700,
+    "megabytes": 4000,
+    "sms": 400,
+    "msisdn": 998939998888
+  },
+  {
+    "tariff": "Cosmo 28",
+    "minutes": 2200,
+    "megabytes": 6000,
+    "sms": 600,
+    "msisdn": 998939997777
+  },
+  {
+    "tariff": "Special 35",
+    "minutes": 2500,
+    "megabytes": 8000,
+    "sms": 1000,
+    "msisdn": 998939996666
+  },
+
+  {
+    "tariff": "Special 45",
+    "minutes": 4000,
+    "megabytes": 10000,
+    "sms": 2000,
+    "msisdn": 998939995555
+  },
+
+  {
+    "tariff": "Special 55",
+    "minutes": 45000,
+    "megabytes": 14000,
+    "sms": 3000,
+    "msisdn": 998939994444
+  },
+  {
+    "tariff": "Special 70",
+    "minutes": 45000,
+    "megabytes": 20000,
+    "sms": 4000,
+    "msisdn": 998939993333
+  },
+  {
+    "tariff": "Special 80",
+    "minutes": 45000,
+    "megabytes": 24000,
+    "sms": 5000,
+    "msisdn": 998939992222
+  },
+
+  {
+    "tariff": "Special 100",
+    "minutes": 45000,
+    "megabytes": 32000,
+    "sms": 5000,
+    "msisdn": 998939991111
+  },
+
+  {
+    "tariff": "Special 125",
+    "minutes": 45000,
+    "megabytes": 45000,
+    "sms": 5000,
+    "msisdn": 998939990000
+  },
+
+  {
+    "tariff": "Good Mood",
+    "minutes": 750,
+    "megabytes": 1000,
+    "sms": 300,
+    "msisdn": 998938889999
+  },
+
+  {
+    "tariff": "Cool Mood",
+    "minutes": 1000,
+    "megabytes": 1500,
+    "sms": 400,
+    "msisdn": 998938888888
+  },
+
+  {
+    "tariff": "Excellent Mood",
+    "minutes": 1200,
+    "megabytes": 2000,
+    "sms": 500,
+    "msisdn": 998938887777
+  },
+
+  {
+    "tariff": "Tantana",
+    "minutes": 1000,
+    "megabytes": 1000,
+    "sms": 1000,
+    "msisdn": 998938886666
+  }
+]

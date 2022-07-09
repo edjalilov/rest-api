@@ -1,0 +1,25 @@
+{
+  "name": "node_express_api",
+  "version": "1.0.0",
+  "description": "Fake API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Elyor Djalilov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.3",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0",
+    "uuid": "^8.3.2"
+  }
+}
